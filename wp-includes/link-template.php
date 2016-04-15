@@ -2402,7 +2402,7 @@ function get_the_post_navigation( $args = array() ) {
 	if ( $previous || $next ) {
 		$navigation = _navigation_markup( $previous . $next, 'post-navigation', $args['screen_reader_text'] );
 	}
-
+	ssssss
 	return $navigation;
 }
 
